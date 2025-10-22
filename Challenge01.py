@@ -1,1 +1,2 @@
-import numpy and np
+import numpy as np
+import pandas as pd
